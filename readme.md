@@ -68,7 +68,8 @@ const udayKumar = {
   },
 
   superpower: 'Turning ideas into fast, scalable, user-friendly products',
-  funFact: 'Self-taught coder who went from PHP & jQuery → Full-Stack AI apps 🚀',
+  funFact:
+    'Self-taught coder who went from PHP & jQuery → Full-Stack AI apps 🚀',
   openTo: ['Freelance', 'Full-time', 'Remote', 'Collabs'],
 
   contact: {
@@ -88,6 +89,7 @@ const udayKumar = {
 ## ⚔️ Tech Arsenal
 
 ### 🌐 Frontend & Web
+
 <p>
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
   <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"/>
@@ -99,6 +101,7 @@ const udayKumar = {
 </p>
 
 ### 📱 Mobile
+
 <p>
   <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white"/>
   <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white"/>
@@ -106,6 +109,7 @@ const udayKumar = {
 </p>
 
 ### ⚙️ Backend
+
 <p>
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white"/>
   <img src="https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white"/>
@@ -115,6 +119,7 @@ const udayKumar = {
 </p>
 
 ### 🗄️ Databases
+
 <p>
   <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"/>
   <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/>
@@ -123,6 +128,7 @@ const udayKumar = {
 </p>
 
 ### 🛠️ DevOps & Tools
+
 <p>
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
   <img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white"/>
@@ -135,6 +141,7 @@ const udayKumar = {
 </p>
 
 ### 🤖 AI & APIs
+
 <p>
   <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white"/>
   <img src="https://img.shields.io/badge/WebRTC-333333?style=for-the-badge&logo=webrtc&logoColor=white"/>
@@ -163,18 +170,23 @@ const udayKumar = {
 ```
 
 ### 🏢 iSpace · Senior Software Engineer · `Jan 2026 – Present`
-> 🎯 *Client: KornFerry*
+
+> 🎯 _Client: KornFerry_
+
 - ⚡ Full-stack web app with **React.js**, **NestJS** & **PostgreSQL**
 - 🏗️ **Micro Frontend** architecture exposure & feature delivery
 - 🐛 UI/backend bug fixes improving stability & user experience
 
 ### 🏢 Inncircles · Senior Product Developer · `Apr 2024 – Dec 2025`
-> 🎯 *Client: ASBL*
+
+> 🎯 _Client: ASBL_
+
 - 🚀 Built & launched a **React.js dashboard** for gated communities end-to-end
 - 📱 Enhanced resident-facing **Flutter app** for Android & iOS
 - 🔧 Node.js backend — feature implementation & API integrations
 
 ### 🏢 Spreadsheet.com · Software Engineer · `Jan 2021 – Mar 2024`
+
 - 🌐 **MERN stack** interfaces, **Docker** workflows
 - 📈 Product growth from **beta → $120K+ ARR**
 - 🎨 Full UI revamp — navigation, visual consistency, UX
@@ -182,6 +194,7 @@ const udayKumar = {
 - ⚙️ **CI/CD pipelines**, DevOps, **MongoDB migration** using Python
 
 ### 🌾 Freelance · Web Developer · `Jan 2018 – Dec 2020`
+
 - 📍 Location tracking app with **Maps API + Firebase + offline sync**
 - 🛍️ E-commerce storefront for local saree businesses (MERN)
 - 🏫 Faculty management system for college departments
@@ -196,14 +209,14 @@ const udayKumar = {
 
 <div align="center">
 
-| 🚀 Project | 📋 Description | 🔧 Stack | 🏆 Achievement |
-|:---:|:---|:---:|:---:|
-| [**🎵 Tune Up**](https://github.com/udaykumar-m/TuneUp) | Collaborative music app — local + YouTube streaming + real-time shared listening rooms | `Flutter` `WebRTC` `YouTube API` | 🔧 In Dev |
-| [**🤖 AI Pal App**](https://github.com/udaykumar-m/OpenAI-App) | Daily AI quotes, meanings, Instagram captions, tweet generator — no login needed | `Flutter` `OpenAI` `Firebase` | ⭐ 500+ installs |
-| [**🧩 AI Pal Extension**](https://github.com/udaykumar-m/chromeExtension) | Chrome extension — jokes, word definitions, AI caption generation | `JavaScript` `OpenAI` | ⭐ 258 installs |
-| **📍 TrackWise** | Live location tracking, route validation, distance calc, offline sync, wage automation | `JS` `Android` `Firebase` `Maps API` | ✅ Production |
-| **🛍️ Raj Silk Palace** | MERN e-commerce for local saree shop — owner dashboard + customer storefront | `React` `Node.js` `MongoDB` | ✅ Delivered |
-| **🏫 Faculty FIMS** | Faculty info & management system — admin controls, faculty login, subject search | `PHP` `PDO` `MySQL` | ✅ Completed |
+|                                🚀 Project                                 | 📋 Description                                                                         |               🔧 Stack               |  🏆 Achievement  |
+| :-----------------------------------------------------------------------: | :------------------------------------------------------------------------------------- | :----------------------------------: | :--------------: |
+|          [**🎵 Tune Up**](https://github.com/udaykumar-m/TuneUp)          | Collaborative music app — local + YouTube streaming + real-time shared listening rooms |   `Flutter` `WebRTC` `YouTube API`   |    🔧 In Dev     |
+|      [**🤖 AI Pal App**](https://github.com/udaykumar-m/OpenAI-App)       | Daily AI quotes, meanings, Instagram captions, tweet generator — no login needed       |    `Flutter` `OpenAI` `Firebase`     | ⭐ 500+ installs |
+| [**🧩 AI Pal Extension**](https://github.com/udaykumar-m/chromeExtension) | Chrome extension — jokes, word definitions, AI caption generation                      |        `JavaScript` `OpenAI`         | ⭐ 258 installs  |
+|                             **📍 TrackWise**                              | Live location tracking, route validation, distance calc, offline sync, wage automation | `JS` `Android` `Firebase` `Maps API` |  ✅ Production   |
+|                          **🛍️ Raj Silk Palace**                           | MERN e-commerce for local saree shop — owner dashboard + customer storefront           |     `React` `Node.js` `MongoDB`      |   ✅ Delivered   |
+|                            **🏫 Faculty FIMS**                            | Faculty info & management system — admin controls, faculty login, subject search       |         `PHP` `PDO` `MySQL`          |   ✅ Completed   |
 
 </div>
 
@@ -221,7 +234,7 @@ const udayKumar = {
 
 <br/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=udaykumar-m&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d4ff&text_color=c9d1d9&border_radius=12&langs_count=8&cache_seconds=86400" width="49%"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=udaykumar-m&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d4ff&text_color=c9d1d9&border_radius=12&langs_count=8&cache_seconds=86400" width="49%"/><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=udaykumar-m&layout=donut&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d4ff&text_color=c9d1d9&border_radius=12&langs_count=6&cache_seconds=86400" width="49%"/>
 
 </div>
 
@@ -233,7 +246,7 @@ const udayKumar = {
 
 ## 🗺️ Commit Trail
 
-> *Every square earned. Every line pushed. The trail never lies.*
+> _Every square earned. Every line pushed. The trail never lies._
 
 <div align="center">
 
@@ -251,8 +264,6 @@ const udayKumar = {
 
 </div>
 
-> ⚙️ **Snake setup:** Drop `snake.yml` into `.github/workflows/`, go to **Actions → Run workflow** once. Auto-refreshes nightly after that.
-
 ---
 
 <!-- ═══════════════════════════════════════════════════════════════════ -->
@@ -262,7 +273,9 @@ const udayKumar = {
 ## 🌱 Beyond Work
 
 ### 🤝 Open Source — Swecha (IIIT Hyderabad)
-> *Non-profit contribution — because shipping for free hits different.*
+
+> _Non-profit contribution — because shipping for free hits different._
+
 - 🐛 Bug fixes & **full UI revamp** on a React app for the nonprofit
 - 📱 Built a **Flutter app from scratch** to support their mission
 - 🤝 Collaborated with a team to improve usability & UX
@@ -311,7 +324,7 @@ const udayKumar = {
 
 **⚡ "Self-taught. Ship-first. Always levelling up." ⚡**
 
-*Made with 💙 + ☕ + too many late nights in Hyderabad*
+_Made with 💙 + ☕ + too many late nights in Hyderabad_
 
 <img src="https://komarev.com/ghpvc/?username=udaykumar-m&style=flat-square&color=00d4ff&label=Profile+Views" alt="profile views"/>
 
