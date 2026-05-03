@@ -135,11 +135,8 @@ availability:
 ```
 
 <p align="center">
-  📧 developeruday007@gmail.com
-</p>
 
----
+📧 developeruday007@gmail.com
 
-<p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF00FF,100:000000&height=120&section=footer"/>
 </p>
