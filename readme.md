@@ -8,27 +8,20 @@
 <img src="https://capsule-render.vercel.app/api?type=venom&height=200&text=UDAY%20KUMAR&fontSize=70&color=0:0d1117,50:1a1a2e,100:16213e&stroke=00d4ff&strokeWidth=2&fontColor=00d4ff&animation=fadeIn&fontAlignY=55&desc=Senior%20Software%20Engineer%20%7C%20MERN%20%7C%20Flutter%20%7C%20DevOps&descAlignY=78&descSize=16&descColor=7dd3fc" width="100%"/>
 
 <!-- TYPING ANIMATION — using readme-typing-svg.demolab.com (most stable host) -->
-<img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&weight=700&size=20&duration=3000&pause=800&color=00D4FF&center=true&vCenter=true&multiline=false&repeat=true&width=650&height=45&lines=%F0%9F%8E%AE+Player+1+Has+Entered+The+Game...;%E2%9A%A1+5%2B+Years+of+XP+Grinding;%F0%9F%9A%80+Shipping+Products+Since+2019;%F0%9F%A7%A0+MERN+Stack+%2B+Flutter+%2B+DevOps;%F0%9F%8C%90+700%2B+Users+Across+My+Apps;%F0%9F%8E%AF+Currently+%40+iSpace+%7C+Open+to+Freelance" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&weight=700&size=20&duration=3000&pause=800&color=00D4FF&center=true&vCenter=true&multiline=false&repeat=true&width=650&height=45&lines=%F0%9F%8E%AE+Player+Has+Entered+The+Game...;%E2%9A%A1+5%2B+Years+of+XP+Grinding;%F0%9F%9A%80+Shipping+Products+Since+2018;%F0%9F%A7%A0+MERN+Stack+%2B+Flutter+%2B+DevOps;%F0%9F%8C%90+700%2B+Users+Across+My+Apps;%F0%9F%8E%AF+Currently+%40+iSpace+%7C+Open+to+Freelance" alt="Typing SVG" />
 
 <br/>
 
 <!-- PROFILE VIEWS + SOCIAL BADGES -->
 <p>
   <img src="https://komarev.com/ghpvc/?username=udaykumar-m&style=for-the-badge&color=00d4ff&labelColor=0d1117&label=VISITORS" alt="profile views"/>
-  &nbsp;
-  <a href="https://www.linkedin.com/in/uday-kumar48/">
+  &nbsp;<a href="https://www.linkedin.com/in/uday-kumar48/" target="blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  &nbsp;
-  <a href="mailto:developeruday007@gmail.com">
+  </a>&nbsp;<a href="mailto:developeruday007@gmail.com" target="blank">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-  &nbsp;
-  <a href="https://udaykumar-m.github.io">
+  </a>&nbsp;<a href="https://udaykumar-m.github.io" target="blank">
     <img src="https://img.shields.io/badge/Portfolio-00D4FF?style=for-the-badge&logo=githubpages&logoColor=black"/>
-  </a>
-  &nbsp;
-  <a href="https://udaykumar-m.github.io/img/UdayKumarResume.pdf">
+  </a>&nbsp;<a href="https://udaykumar-m.github.io/img/UdayKumarResume.pdf" target="blank">
     <img src="https://img.shields.io/badge/Resume-FF6B6B?style=for-the-badge&logo=adobeacrobatreader&logoColor=white"/>
   </a>
 </p>
@@ -50,7 +43,7 @@
 ║  NAME    ▸  Maddu Uday Kumar                                     ║
 ║  CLASS   ▸  Senior Software Engineer                             ║
 ║  LEVEL   ▸  ██████████████████████  LVL 05+                     ║
-║  XP      ▸  5+ Years  |  3 Companies  |  $120K+ ARR Delivered   ║
+║  XP      ▸  5+ Years  |  3 Companies  |  12+ Projects         ║
 ║  REGION  ▸  Hyderabad / Kakinada, India 🇮🇳                      ║
 ║  STATUS  ▸  🟢 ONLINE  |  Mon–Sat 10AM–11PM                     ║
 ║  GUILD   ▸  iSpace  (KornFerry Client)                           ║
@@ -70,28 +63,29 @@
 
 ```javascript
 const udayKumar = {
-  name       : "Maddu Uday Kumar",
-  role       : "Senior Software Engineer",
-  location   : "Hyderabad / Kakinada, India 🇮🇳",
-  experience : "5+ years",
-  stack      : ["MERN", "Flutter", "DevOps", "OpenAI"],
+  name: 'Maddu Uday Kumar',
+  role: 'Senior Software Engineer',
+  location: 'Hyderabad / Kakinada, India 🇮🇳',
+  experience: '5+ years',
+  stack: ['MERN', 'Flutter', 'DevOps', 'OpenAI'],
 
-  currentQuest : {
-    company : "iSpace",
-    client  : "KornFerry",
-    role    : "Senior Software Engineer",
-    since   : "January 2026"
+  currentQuest: {
+    company: 'iSpace',
+    client: 'KornFerry',
+    role: 'Senior Software Engineer',
+    since: 'January 2026',
   },
 
-  superpower : "Turning ideas into fast, scalable, user-friendly products",
-  funFact    : "Self-taught coder who went from PHP & jQuery → Full-Stack AI apps 🚀",
-  openTo     : ["Freelance", "Full-time", "Remote", "Collabs"],
+  superpower: 'Turning ideas into fast, scalable, user-friendly products',
+  funFact:
+    'Self-taught coder who went from PHP & jQuery → Full-Stack AI apps 🚀',
+  openTo: ['Freelance', 'Full-time', 'Remote', 'Collabs'],
 
-  contact    : {
-    email    : "developeruday007@gmail.com",
-    linkedin : "linkedin.com/in/uday-kumar48",
-    phone    : "+91 95734 93036"
-  }
+  contact: {
+    email: 'developeruday007@gmail.com',
+    linkedin: 'linkedin.com/in/uday-kumar48',
+    phone: '+91 95734 93036',
+  },
 };
 ```
 
@@ -104,6 +98,7 @@ const udayKumar = {
 ## ⚔️ Tech Arsenal
 
 ### 🌐 Frontend & Web
+
 <p>
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
   <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"/>
@@ -115,6 +110,7 @@ const udayKumar = {
 </p>
 
 ### 📱 Mobile
+
 <p>
   <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white"/>
   <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white"/>
@@ -122,6 +118,7 @@ const udayKumar = {
 </p>
 
 ### ⚙️ Backend
+
 <p>
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white"/>
   <img src="https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white"/>
@@ -131,6 +128,7 @@ const udayKumar = {
 </p>
 
 ### 🗄️ Databases
+
 <p>
   <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"/>
   <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/>
@@ -139,6 +137,7 @@ const udayKumar = {
 </p>
 
 ### 🛠️ DevOps & Tools
+
 <p>
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
   <img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white"/>
@@ -151,6 +150,7 @@ const udayKumar = {
 </p>
 
 ### 🤖 AI & APIs
+
 <p>
   <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white"/>
   <img src="https://img.shields.io/badge/WebRTC-333333?style=for-the-badge&logo=webrtc&logoColor=white"/>
@@ -174,34 +174,36 @@ const udayKumar = {
 
   [QUEST 0]          [QUEST 1]          [QUEST 2]          [QUEST 3]
   Freelance       Spreadsheet.com      Inncircles           iSpace
-  2019–2020         2021–2024           2024–2025          2026–NOW
-  Kakinada         Hyderabad           Hyderabad           Hyderabad
-  Web/Android       MERN+Flutter       React+Flutter      NestJS+React
-  Entry Level      $120K+ ARR         Gated Communities   KornFerry
+  2018–2020         2021–2024           2024–2025          2026–NOW
+  Web/Android       MERN+DevOps       React+Flutter      NestJS+React
 ```
 
 ### 🏢 iSpace · Senior Software Engineer · `Jan 2026 – Present`
-> 🎯 *Client: KornFerry*
+
+> 🎯 _Client: KornFerry_
+
 - ⚡ Full-stack web app with **React.js**, **NestJS** & **PostgreSQL**
 - 🏗️ **Micro Frontend** architecture exposure & feature delivery
 - 🐛 UI/backend bug fixes improving stability & user experience
 
 ### 🏢 Inncircles · Senior Product Developer · `Apr 2024 – Dec 2025`
-> 🎯 *Client: ASBL*
+
+> 🎯 _Client: ASBL_
+
 - 🚀 Built & launched a **React.js dashboard** for gated communities end-to-end
 - 📱 Enhanced resident-facing **Flutter app** for Android & iOS
 - 🔧 Node.js backend — feature implementation & API integrations
-- 🤝 Cross-functional collaboration across dev, QA & release cycles
 
 ### 🏢 Spreadsheet.com · Software Engineer · `Jan 2021 – Mar 2024`
+
 - 🌐 **MERN stack** interfaces, **Docker** workflows
 - 📈 Product growth from **beta → $120K+ ARR**
 - 🎨 Full UI revamp — navigation, visual consistency, UX
-- 📊 Revenue tracking dashboards with **React.js & Flask**
-- 📱 Core **Flutter** features for iOS & Android
+- 📊 Revenue tracking dashboards with \*_React.js & Flask_
 - ⚙️ **CI/CD pipelines**, DevOps, **MongoDB migration** using Python
 
-### 🌾 Freelance · Web Developer · `Jan 2019 – Dec 2020`
+### 🌾 Freelance · Web Developer · `Jan 2018 – Dec 2020`
+
 - 📍 Location tracking app with **Maps API + Firebase + offline sync**
 - 🛍️ E-commerce storefront for local saree businesses (MERN)
 - 🏫 Faculty management system for college departments
@@ -216,14 +218,14 @@ const udayKumar = {
 
 <div align="center">
 
-| 🚀 Project | 📋 Description | 🔧 Stack | 🏆 Achievement |
-|:---:|:---|:---:|:---:|
-| [**🎵 Tune Up**](https://github.com/udaykumar-m/TuneUp) | Collaborative music app — local + YouTube streaming + real-time shared listening rooms | `Flutter` `WebRTC` `YouTube API` | 🔧 In Dev |
-| [**🤖 AI Pal App**](https://github.com/udaykumar-m/OpenAI-App) | Daily AI quotes, meanings, Instagram captions, tweet generator — no login needed | `Flutter` `OpenAI` `Firebase` | ⭐ 500+ installs |
-| [**🧩 AI Pal Extension**](https://github.com/udaykumar-m/chromeExtension) | Chrome extension — jokes, word definitions, AI caption generation | `JavaScript` `OpenAI` | ⭐ 258 installs |
-| **📍 TrackWise** | Live location tracking, route validation, distance calc, offline sync, wage automation | `JS` `Android` `Firebase` `Maps API` | ✅ Production |
-| **🛍️ Raj Silk Palace** | MERN e-commerce for local saree shop — owner dashboard + customer storefront | `React` `Node.js` `MongoDB` | ✅ Delivered |
-| **🏫 Faculty FIMS** | Faculty info & management system — admin controls, faculty login, subject search | `PHP` `PDO` `MySQL` | ✅ Completed |
+|                                🚀 Project                                 | 📋 Description                                                                         |               🔧 Stack               |  🏆 Achievement  |
+| :-----------------------------------------------------------------------: | :------------------------------------------------------------------------------------- | :----------------------------------: | :--------------: |
+|          [**🎵 Tune Up**](https://github.com/udaykumar-m/TuneUp)          | Collaborative music app — local + YouTube streaming + real-time shared listening rooms |   `Flutter` `WebRTC` `YouTube API`   |    🔧 In Dev     |
+|      [**🤖 AI Pal App**](https://github.com/udaykumar-m/OpenAI-App)       | Daily AI quotes, meanings, Instagram captions, tweet generator — no login needed       |    `Flutter` `OpenAI` `Firebase`     | ⭐ 500+ installs |
+| [**🧩 AI Pal Extension**](https://github.com/udaykumar-m/chromeExtension) | Chrome extension — jokes, word definitions, AI caption generation                      |        `JavaScript` `OpenAI`         | ⭐ 258 installs  |
+|                             **📍 TrackWise**                              | Live location tracking, route validation, distance calc, offline sync, wage automation | `JS` `Android` `Firebase` `Maps API` |  ✅ Production   |
+|                          **🛍️ Raj Silk Palace**                           | MERN e-commerce for local saree shop — owner dashboard + customer storefront           |     `React` `Node.js` `MongoDB`      |   ✅ Delivered   |
+|                            **🏫 Faculty FIMS**                            | Faculty info & management system — admin controls, faculty login, subject search       |         `PHP` `PDO` `MySQL`          |   ✅ Completed   |
 
 </div>
 
@@ -265,8 +267,6 @@ const udayKumar = {
   </picture>
 </div>
 
-> ⚙️ **One-time setup:** Place the `snake.yml` file (included in this repo) at `.github/workflows/snake.yml`, then go to **Actions tab → Run workflow manually once**. After that it auto-runs every night at midnight UTC.
-
 ---
 
 <!-- ═══════════════════════════════════════════════════════════════════ -->
@@ -282,32 +282,15 @@ const udayKumar = {
 ---
 
 <!-- ═══════════════════════════════════════════════════════════════════ -->
-<!--                     EDUCATION                                     -->
-<!-- ═══════════════════════════════════════════════════════════════════ -->
-
-## 🎓 Education
-
-```
-  📚 B.Tech — Computer Science & Engineering
-     Jawaharlal Nehru Technological University (JNTU), Kakinada  |  2017 – 2020
-
-  📜 Diploma — Computer Science
-     Andhra Polytechnic, Kakinada  |  2014 – 2017  |  72.00%
-
-  🏫 SSC — Secondary School Certificate
-     Sarwanividyanikethan, Kakinada  |  2014  |  9.2 CGPA
-```
-
----
-
-<!-- ═══════════════════════════════════════════════════════════════════ -->
 <!--                  INVOLVEMENT / OPEN SOURCE                        -->
 <!-- ═══════════════════════════════════════════════════════════════════ -->
 
 ## 🌱 Beyond Work
 
 ### 🤝 Open Source — Swecha (IIIT Hyderabad)
-> *Non-profit contribution — because shipping for free hits different.*
+
+> _Non-profit contribution — because shipping for free hits different._
+
 - 🐛 Bug fixes & **full UI revamp** on a React app for the nonprofit
 - 📱 Built a **Flutter app from scratch** to support their mission
 - 🤝 Collaborated with a team to improve usability & UX
@@ -325,37 +308,18 @@ const udayKumar = {
 ```
 ┌──────────────────────────────────────────────────────────────┐
 │                                                              │
-│   🚀  Have a project idea?  Let's build it.                 │
-│   💬  Want to talk tech?    I'm always up for it.           │
-│   🎯  Need a developer?     I'm available!                  │
+│   🚀  Have a project idea?  Let's build it.                  │
+│   💬  Want to talk tech?    I'm always up for it.            │
+│   🎯  Need a developer?     I'm available!                   │
 │                                                              │
-│   📧  developeruday007@gmail.com                            │
-│   📞  +91 95734 93036                                       │
-│   🔗  linkedin.com/in/uday-kumar48                          │
-│   🌐  udaykumar-m.github.io                                 │
-│   📄  Resume  ↗  udaykumar-m.github.io/img/UdayKumarResume.pdf │
+│   📧  developeruday007@gmail.com                             │
+│   📞  +91 95734 93036                                        │
 │                                                              │
-│   ⏰  Mon – Sat  |  10 AM – 11 PM IST                       │
-│   💼  Open: Freelance / Full-time / Remote                  │
+│   ⏰  Mon – Sat  |  10 AM – 11 PM IST                        │
+│   💼  Open: Freelance / Full-time / Remote                   │
 │                                                              │
 └──────────────────────────────────────────────────────────────┘
 ```
-
-<a href="https://www.linkedin.com/in/uday-kumar48/">
-  <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-&nbsp;
-<a href="mailto:developeruday007@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-Email_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-&nbsp;
-<a href="https://udaykumar-m.github.io">
-  <img src="https://img.shields.io/badge/Portfolio-Visit-00D4FF?style=for-the-badge&logo=githubpages&logoColor=black"/>
-</a>
-&nbsp;
-<a href="https://www.instagram.com/uday_kumar___/">
-  <img src="https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
-</a>
 
 </div>
 
@@ -371,7 +335,7 @@ const udayKumar = {
 
 **⚡ "Self-taught. Ship-first. Always levelling up." ⚡**
 
-*Made with 💙 + ☕ + too many late nights in Hyderabad*
+_Made with 💙 + ☕ + too many late nights in Hyderabad_
 
 <img src="https://komarev.com/ghpvc/?username=udaykumar-m&style=flat-square&color=00d4ff&label=Profile+Views" alt="profile views"/>
 
